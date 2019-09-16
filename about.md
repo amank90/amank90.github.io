@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Aman and I am a graduate student at UBC. I am currently enrolled in the Master in Data Science program.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out my [GitHub page](https://github.com/amank90) for some of my open-source projects, my [Linkedin](www.linkedin.com/in/aman-garg-53127448) for my professional profile
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gargkaman7@gmail.com](mailto:gargkaman7@gmail.com)
