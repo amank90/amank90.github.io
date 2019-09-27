@@ -6,7 +6,7 @@ One of the most important steps in learning data science is to master the art of
 
 Let's start with the pictures below:
 
-<img src="https://amank90.github.io/images//doctor.PNG" width="180" height="200" align="left"/><img src="https://amank90.github.io/images//engineer.JPG" width="180" height="200" align="middle"/><img src="https://amank90.github.io/images//prof.JPG" width="180" height = 200 align="middle"/>
+<img src="https://amank90.github.io/images//doctor.png" width="180" height="200" align="left"/><img src="https://amank90.github.io/images//engineer.png" width="180" height="200" align="middle"/><img src="https://amank90.github.io/images//prof.png" width="180" height = 200 align="middle"/>
 
 
 
