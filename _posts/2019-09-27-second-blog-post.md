@@ -6,7 +6,7 @@ One of the most important steps in learning data science is to master the art of
 
 Let's start with the pictures below:
 
-<img src="/images/config.PNG" width="180" height="200" align="left"/><img src="img/engineer.JPG" width="180" height="200" align="middle"/><img src="img/prof.JPG" width="180" height = 200 align="middle"/>
+<img src="https://amank90.github.io/images//doctor.PNG" width="180" height="200" align="left"/><img src="https://amank90.github.io/images//engineer.JPG" width="180" height="200" align="middle"/><img src="https://amank90.github.io/images//prof.JPG" width="180" height = 200 align="middle"/>
 
 
 
@@ -16,7 +16,7 @@ What is the `profession` of the persons in the picture? Are they Doctor, Enginee
 
 In more technical terms, **Feature engineering**  is the process of using `domain knowledge` of the data to create `features` that make `machine learning` algorithms work .
 
-<img src="img/feature1.jpg" width="600" height="150" align="middle"/>
+<img src="https://amank90.github.io/images//feature1.jpg" width="600" height="150" align="middle"/>
 
 Now,it is the time to see the application of feature engineering in one of the data science problems. Let's say in the **UBC Master of Data Science cohort of 2019-2020**, I need to `predict` the probability if a student will `pass or fail` in the program.  The features of the student that I will look upon are :
 
@@ -37,7 +37,7 @@ These features are sufficient for my machine learning model to work. Now let's c
 
 ​                     **Alex**								         	**Feature**																	**Value**
 
-​		- Probability and Statistics										:		C <img src="img/student1.jpg" width="200" height="270" align="left"/>
+​		- Probability and Statistics										:		C <img src="https://amank90.github.io/images//student1.jpg" width="200" height="270" align="left"/>
 
 ​		-  Computing platform for Data Science				:		C
 
@@ -61,7 +61,7 @@ These features are sufficient for my machine learning model to work. Now let's c
 
 ​					**Jess**								         	**Feature**																		**Value**
 
-​		- Probability and Statistics										:		A <img src="img/student2.jpg" width="200" height="270" align="left"/>
+​		- Probability and Statistics										:		A <img src="https://amank90.github.io/images//student2.jpg" width="200" height="270" align="left"/>
 
 ​		-  Computing platform for Data Science				:		B
 
@@ -83,7 +83,7 @@ These features are sufficient for my machine learning model to work. Now let's c
 
 ​					**John**								         	**Feature**																	**Value**
 
-​		- Probability and Statistics										:		B <img src="img/student3.jpg" width="200" height="270" align="left"/>
+​		- Probability and Statistics										:		B <img src="https://amank90.github.io/images//student3.jpg" width="200" height="270" align="left"/>
 
 ​		-  Computing platform for Data Science				:		A
 
