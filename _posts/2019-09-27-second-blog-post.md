@@ -6,7 +6,7 @@ One of the most important steps in learning data science is to master the art of
 
 Let's start with the pictures below:
 
-<img src="./images/config.PNG" width="180" height="200" align="left"/><img src="img/engineer.JPG" width="180" height="200" align="middle"/><img src="img/prof.JPG" width="180" height = 200 align="middle"/>
+<img src="images/config.PNG" width="180" height="200" align="left"/><img src="img/engineer.JPG" width="180" height="200" align="middle"/><img src="img/prof.JPG" width="180" height = 200 align="middle"/>
 
 
 
