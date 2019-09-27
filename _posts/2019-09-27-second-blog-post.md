@@ -6,13 +6,7 @@ One of the most important steps in learning data science is to master the art of
 
 Let's start with the pictures below:
 
-<img src="https://amank90.github.io/images//doctor.png" width="180" height="200" align="left"/><img src="https://amank90.github.io/images//engineer.jpg" width="180" height="200" align="middle"/> 
-
-<img src="https://amank90.github.io//images//prof.jpg" width="180" height = 200 align="left"/>
-
-
-
-
+<img src="https://amank90.github.io/images//doctor.png" width="180" height="200" align="left"/><img src="https://amank90.github.io/images//engineer.jpg" width="180" height="200" align="middle"/><img src="https://amank90.github.io/images//engineer.jpg" width="180" height="200" align="middle"/>
 
 What is the `profession` of the persons in the picture? Are they Doctor, Engineer or professor? It is evident that the gentlemen in the pictures are Doctor, Engineer and professor respectively.  **Just think about what made you answer the question**. I am able to see the `stethoscope` in first pic, `helmet` in second pic and some `mathematical formulas` in the last one.  These are the key information present in the pictures that helped me in making my decision.  There are also other information present in the pictures such as mood of the individuals, gender, type of clothes, colour of the clothes etc.  All this information contribute to the attributes of the picture and the process of finding the right attribute to make the decision is termed as feature engineering. This process is based on our past knowledge. In this case, since I have seen how doctor, engineer and professor look like therefore I am able to isolate the right attribute to solve my problem.  Other attributes are not relevant for me in answering the question.
 
